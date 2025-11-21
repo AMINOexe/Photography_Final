@@ -399,7 +399,7 @@ ui <- page_navbar(
       width= '100%',
       height = '100%',
       tags$iframe(
-        src = "https://cosmograph.app/run/?data=https://raw.githubusercontent.com/AMINOexe/Photography_Final/refs/heads/main/Code/main_dat.csv", # Relative path from the 'www' folder
+        src = "https://cosmograph.app/run/?data=https://raw.githubusercontent.com/AMINOexe/Photography_Final/refs/heads/main/Code/main_dat.csv/?metadata=https://raw.githubusercontent.com/AMINOexe/Photography_Final/refs/heads/main/Code/metadata.csv", # Relative path from the 'www' folder
         width = "100%",
         height = "100%"
       )
