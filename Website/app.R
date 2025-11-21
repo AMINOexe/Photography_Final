@@ -399,7 +399,7 @@ ui <- page_navbar(
       width= '100%',
       height = '100%',
       tags$iframe(
-        src = "https://cosmograph.app/run/?data=https://raw.githubusercontent.com/AMINOexe/Photography_Final/refs/heads/main/Code/main_dat.csv&meta=https://raw.githubusercontent.com/AMINOexe/Photography_Final/refs/heads/main/Code/metadata.csv&source=source&target=target&gravity=0.25&repulsion=1&repulsionTheta=1.15&linkSpring=0.02&linkDistance=10&friction=0.85&renderLabels=true&renderHoveredLabel=true&renderLinks=true&nodeSizeScale=1&linkWidthScale=1&linkArrowsSizeScale=1&nodeSize=size-default&nodeColor=color-total%20links&linkWidth=width-default&linkColor=color-default&",
+        src = "https://cosmograph.app/run/?data=https://raw.githubusercontent.com/AMINOexe/Photography_Final/refs/heads/main/Data/Processed_Data/main_dat.csv&meta=https://raw.githubusercontent.com/AMINOexe/Photography_Final/refs/heads/main/Data/Processed_Data/metadata.csv&source=source&target=target&gravity=0.25&repulsion=1&repulsionTheta=1.15&linkSpring=0.02&linkDistance=10&friction=0.85&renderLabels=true&renderHoveredLabel=true&renderLinks=true&nodeSizeScale=1&linkWidthScale=1&linkArrowsSizeScale=1&nodeSize=size-default&nodeColor=color-total%20links&linkWidth=width-default&linkColor=color-default&",
         width = "100%",
         height = "100%"
       )
